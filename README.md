@@ -1,2 +1,2 @@
 # make_csr
-A tool to build CSRs from certificates
+A tool for building CSRs from existing certificates
